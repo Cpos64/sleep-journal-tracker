@@ -15,6 +15,7 @@
 ## ⏰ Sleep Timing
 
 - 🕰️ What time did you get into bed?: 
+- 🛏️ What time did you fall asleep?: 
 - ⏱️ What time did you wake up?: 
 - 🧮 How much total sleep did you get?: 
 - ⏳ How much awake time (total) during the night?: 
