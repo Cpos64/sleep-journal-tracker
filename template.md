@@ -8,7 +8,7 @@
 - 🏋️‍♀️ Worked out right before bed? (yes/no): 
 - 🚽 Woke up to pee during the night? (yes/no): 
 - 💧 If yes, how many times?: 
-- 😴 Did you snooze your alarm? (yes/no):  
+- 😴 Did you snooze your alarm? (yes/no): 
 
 ---
 
@@ -26,7 +26,7 @@
 ## 💭 Dream Journal
 
 - 🌙 Did you dream? (yes/no): 
-- ✍️ If so, describe your dream:
+- ✍️ If so, describe your dream(s):
   
 
 ---
